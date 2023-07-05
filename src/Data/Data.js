@@ -1,0 +1,11 @@
+export const data =[
+    {id:Math.random(), title: "breakfast", description:"breakfast breakfast breakfast", price:"20 L.E.",category:"breakfast",imageURL:"https://firebasestorage.googleapis.com/v0/b/images-39885.appspot.com/o/1.png?alt=media&token=36fdd068-03ad-4a07-bdf2-de3cf05f837e"},
+    {id:Math.random(), title: "breakfast", description:"breakfast breakfast breakfast", price:"20 L.E.",category:"breakfast",imageURL:"https://firebasestorage.googleapis.com/v0/b/images-39885.appspot.com/o/1.png?alt=media&token=36fdd068-03ad-4a07-bdf2-de3cf05f837e"},
+    {id:Math.random(), title: "breakfast", description:"breakfast breakfast breakfast", price:"20 L.E.",category:"breakfast",imageURL:"https://firebasestorage.googleapis.com/v0/b/images-39885.appspot.com/o/1.png?alt=media&token=36fdd068-03ad-4a07-bdf2-de3cf05f837e"},
+    {id:Math.random(), title: "lunch", description:"lunch lunch lunch", price:"40 L.E.",category:"lunch",imageURL:"https://firebasestorage.googleapis.com/v0/b/images-39885.appspot.com/o/2.png?alt=media&token=51df307e-5815-45be-b363-8c38ad9143d3"},
+    {id:Math.random(), title: "lunch", description:"lunch lunch lunch", price:"40 L.E.",category:"lunch",imageURL:"https://firebasestorage.googleapis.com/v0/b/images-39885.appspot.com/o/2.png?alt=media&token=51df307e-5815-45be-b363-8c38ad9143d3"},
+    {id:Math.random(), title: "lunch", description:"lunch lunch lunch", price:"40 L.E.",category:"lunch",imageURL:"https://firebasestorage.googleapis.com/v0/b/images-39885.appspot.com/o/2.png?alt=media&token=51df307e-5815-45be-b363-8c38ad9143d3"},
+    {id:Math.random(), title: "dinner", description:"dinner dinner dinner", price:"30 L.E.",category:"dinner",imageURL:"https://firebasestorage.googleapis.com/v0/b/images-39885.appspot.com/o/3.png?alt=media&token=2eaf045f-f17a-414e-b5c1-e8cbddd5cb91"},
+    {id:Math.random(), title: "dinner", description:"dinner dinner dinner", price:"30 L.E.",category:"dinner",imageURL:"https://firebasestorage.googleapis.com/v0/b/images-39885.appspot.com/o/3.png?alt=media&token=2eaf045f-f17a-414e-b5c1-e8cbddd5cb91"},
+    {id:Math.random(), title: "dinner", description:"dinner dinner dinner", price:"30 L.E.",category:"dinner",imageURL:"https://firebasestorage.googleapis.com/v0/b/images-39885.appspot.com/o/3.png?alt=media&token=2eaf045f-f17a-414e-b5c1-e8cbddd5cb91"},
+]
